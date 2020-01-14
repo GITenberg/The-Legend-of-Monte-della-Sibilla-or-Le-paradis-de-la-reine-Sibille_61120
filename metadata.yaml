@@ -1,0 +1,42 @@
+_repo: The-Legend-of-Monte-della-Sibilla-or-Le-paradis-de-la-reine-Sibille_61120
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: Grant, Duncan
+    alias: Grant, Duncan James Corrowr
+    birthdate: 1885
+    deathdate: 1978
+    gutenberg_agent_id: '51275'
+    url: http://www.gutenberg.org/2009/agents/51275
+    wikipedia: https://en.wikipedia.org/wiki/Duncan_Grant
+  - agent_name: Bell, Vanessa
+    alias: Bell, Vanessa Stephen
+    birthdate: 1879
+    deathdate: 1961
+    gutenberg_agent_id: '51276'
+    url: http://www.gutenberg.org/2009/agents/51276
+    wikipedia: https://en.wikipedia.org/wiki/Vanessa_Bell
+creator:
+  author:
+    agent_name: Bell, Clive
+    birthdate: 1881
+    deathdate: 1964
+    gutenberg_agent_id: '5034'
+    url: http://www.gutenberg.org/2009/agents/5034
+    wikipedia: http://en.wikipedia.org/wiki/Clive_Bell
+description: ''
+gutenberg_issued: '2020-01-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61120'
+  lccn: '45029242'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English poetry -- 20th century'
+- !lcc 'PR'
+- GITenberg
+title: The Legend of Monte della Sibilla; or, Le paradis de la reine Sibille
+url: http://www.gutenberg.org/ebooks/61120
